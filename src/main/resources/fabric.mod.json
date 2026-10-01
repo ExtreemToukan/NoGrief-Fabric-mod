@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "nongrief",
+  "version": "${version}",
+  "name": "NoGrief",
+  "description": "Prevents accidental block breaking and placement during combat.",
+  "license": "MIT",
+  "icon": "assets/nongrief/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.example.nongrief.NoGriefClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "fabric-api": "*",
+    "minecraft": "1.21.1",
+    "java": ">=21"
+  }
+}

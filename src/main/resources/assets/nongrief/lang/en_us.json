@@ -1,0 +1,6 @@
+{
+  "category.nongrief": "NoGrief",
+  "key.nongrief.toggle": "Toggle grief protection",
+  "message.nongrief.enabled": "NoGrief: protection enabled",
+  "message.nongrief.disabled": "NoGrief: protection disabled"
+}

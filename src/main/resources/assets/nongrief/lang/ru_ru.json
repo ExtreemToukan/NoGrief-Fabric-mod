@@ -1,0 +1,6 @@
+{
+  "category.nongrief": "NoGrief",
+  "key.nongrief.toggle": "Включить/выключить защиту",
+  "message.nongrief.enabled": "NoGrief: защита включена",
+  "message.nongrief.disabled": "NoGrief: защита выключена"
+}
